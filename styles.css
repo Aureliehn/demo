@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+}
+.bg-yellow{
+    background-color: #F6972D;
+}
+.button_blue{
+    background-color: #2A5982;
+    color: white;
+    border-radius: 0.5em;
+}
+.button_blue:hover{
+    background-color: #7da7a4;
+}
+.button_yellow{
+    background-color: #F6972D;
+    ;
+    color: white;
+    border-radius: 0.5em;
+}
+.button_yellow:hover{
+    background-color: #7da7a4;
+}
+img{
+    width: 100%;
+}
+.italic{
+    font-style: italic;
+}
